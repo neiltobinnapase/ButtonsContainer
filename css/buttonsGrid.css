@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color:lightslategrey;
+    font-family:sans-serif;
+}
+
+
+.buttoncontainer {
+    width: 75%;
+    text-align: center;
+    margin: auto;
+}
+
+.buttoncontainer > .buttonstyle {
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+    text-align: center;
+}
